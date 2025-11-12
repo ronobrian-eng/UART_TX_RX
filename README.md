@@ -18,7 +18,7 @@ The system transmits and receives data through serial communication and displays
 | `uart_rx.v` | Receiver logic |
 | `uart_top.v` | Integration module |
 | `tb_uart_tx.v` | TX Testbench |
-| `tb_uart_rx.v` | RX Testbench |
+| `tb_uart_txrx.v` | RX Testbench |
 | `UART1.xdc` | Pin constraints |
 | `UART2.xdc` | Pin constraints |
 
