@@ -35,7 +35,7 @@ The waveform shows correct **start bit → 8 data bits → stop bit** framing.
 On the Basys-3 board, pressing **BTNL** triggered transmission and displayed the sent hex value on the 7-segment display.  
 Tera Term verified that the transmitted ASCII character (0x41 = ‘A’) was correctly received on the PC.
 
-| UART TX Frame Simulation | Basys-3 Display Snapshot | Console Output |
+| UART TX Frame Simulation | UART TX Waveforms Snapshot | Console Output |
 |---------------------------|--------------------------|----------------|
 | ![UART Frame](screenshots/p1_uart_frame.png) | ![Display Snapshot](screenshots/p1_display_snapshot.png) | ![Console Log](screenshots/p1_console_log.png) |
 
