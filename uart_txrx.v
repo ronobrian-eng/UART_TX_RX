@@ -1,5 +1,4 @@
 // ============================================================================
-// EGR 601 - Lab 9 Part II
 // UART TX & RX
 // Description: Implements full duplex 8N1 UART communication (Transmit and Receive)
 //              and displays the last transmitted and last latched received byte
